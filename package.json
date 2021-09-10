@@ -1,0 +1,19 @@
+{
+  "name": "tide-typings",
+  "version": "1.0.0",
+  "description": "A collection of shared interfaces and declarations for Tide",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tide-foundation/tide-typings.git"
+  },
+  "author": "Matthew Spencer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tide-foundation/tide-typings/issues"
+  },
+  "homepage": "https://github.com/tide-foundation/tide-typings#readme"
+}
